@@ -1,0 +1,4442 @@
+{
+    "cpu_usage_per_core": [
+        23.1,
+        23.4,
+        23.4,
+        26.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7085432832,
+    "ram_free": 1405038592,
+    "ram_usage_percent": 83.5,
+    "disk_total": 254913769472,
+    "disk_used": 218295521280,
+    "disk_free": 36618248192,
+    "disk_usage_percent": 85.6,
+    "swap_total": 12570406912,
+    "swap_used": 1766514687,
+    "swap_free": 10803892225,
+    "swap_usage_percent": 14.1,
+    "uptime": 1718083488.4007323
+}{
+    "timestamp": "2024-06-12 11:49:42",
+    "cpu_usage_per_core": [
+        29.9,
+        12.7,
+        18.8,
+        9.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7075708928,
+    "ram_free": 1414762496,
+    "ram_usage_percent": 83.3,
+    "disk_total": 254913769472,
+    "disk_used": 218292097024,
+    "disk_free": 36621672448,
+    "disk_usage_percent": 85.6,
+    "swap_total": 12570406912,
+    "swap_used": 1781768191,
+    "swap_free": 10788638721,
+    "swap_usage_percent": 14.2,
+    "uptime": 1718083488.5968874
+}
+{
+    "timestamp": "2024-06-12 11:50:43",
+    "cpu_usage_per_core": [
+        29.2,
+        25.0,
+        15.6,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7090941952,
+    "ram_free": 1399529472,
+    "ram_usage_percent": 83.5,
+    "disk_total": 254913769472,
+    "disk_used": 218292375552,
+    "disk_free": 36621393920,
+    "disk_usage_percent": 85.6,
+    "swap_total": 12570406912,
+    "swap_used": 1781456896,
+    "swap_free": 10788950016,
+    "swap_usage_percent": 14.2,
+    "uptime": 1718083488.5968874
+}
+{
+    "timestamp": "2024-06-12 11:51:44",
+    "cpu_usage_per_core": [
+        28.4,
+        18.8,
+        10.9,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7098322944,
+    "ram_free": 1392148480,
+    "ram_usage_percent": 83.6,
+    "disk_total": 254913769472,
+    "disk_used": 218292555776,
+    "disk_free": 36621213696,
+    "disk_usage_percent": 85.6,
+    "swap_total": 12570406912,
+    "swap_used": 1781256192,
+    "swap_free": 10789150720,
+    "swap_usage_percent": 14.2,
+    "uptime": 1718083488.5968874
+}
+{
+    "timestamp": "2024-06-13 10:21:55",
+    "cpu_usage_per_core": [
+        38.0,
+        17.2,
+        21.9,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6307385344,
+    "ram_free": 2183086080,
+    "ram_usage_percent": 74.3,
+    "disk_total": 254913769472,
+    "disk_used": 218725670912,
+    "disk_free": 36188098560,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 112590848,
+    "swap_free": 12046753792,
+    "swap_usage_percent": 0.9,
+    "uptime": 1718219184.7488384
+}
+{
+    "timestamp": "2024-06-13 10:29:02",
+    "cpu_usage_per_core": [
+        22.7,
+        13.6,
+        21.9,
+        10.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6693945344,
+    "ram_free": 1796526080,
+    "ram_usage_percent": 78.8,
+    "disk_total": 254913769472,
+    "disk_used": 218642051072,
+    "disk_free": 36271718400,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 540037120,
+    "swap_free": 11619307520,
+    "swap_usage_percent": 4.4,
+    "uptime": 1718219184.7604873
+}
+{
+    "timestamp": "2024-06-13 10:33:21",
+    "cpu_usage_per_core": [
+        9.2,
+        4.7,
+        10.9,
+        7.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6929932288,
+    "ram_free": 1560539136,
+    "ram_usage_percent": 81.6,
+    "disk_total": 254913769472,
+    "disk_used": 218647863296,
+    "disk_free": 36265906176,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 540200960,
+    "swap_free": 11619143680,
+    "swap_usage_percent": 4.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:34:23",
+    "cpu_usage_per_core": [
+        35.8,
+        33.3,
+        40.6,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7744864256,
+    "ram_free": 745607168,
+    "ram_usage_percent": 91.2,
+    "disk_total": 254913769472,
+    "disk_used": 218664448000,
+    "disk_free": 36249321472,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 532639744,
+    "swap_free": 11626704896,
+    "swap_usage_percent": 4.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:35:24",
+    "cpu_usage_per_core": [
+        67.6,
+        66.2,
+        68.8,
+        71.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7945621504,
+    "ram_free": 544849920,
+    "ram_usage_percent": 93.6,
+    "disk_total": 254913769472,
+    "disk_used": 218722045952,
+    "disk_free": 36191723520,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 564670464,
+    "swap_free": 11594674176,
+    "swap_usage_percent": 4.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:36:25",
+    "cpu_usage_per_core": [
+        12.5,
+        9.4,
+        15.6,
+        17.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 8032174080,
+    "ram_free": 458297344,
+    "ram_usage_percent": 94.6,
+    "disk_total": 254913769472,
+    "disk_used": 218779197440,
+    "disk_free": 36134572032,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 616214528,
+    "swap_free": 11543130112,
+    "swap_usage_percent": 5.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:37:26",
+    "cpu_usage_per_core": [
+        16.7,
+        18.8,
+        26.6,
+        24.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 8093974528,
+    "ram_free": 396496896,
+    "ram_usage_percent": 95.3,
+    "disk_total": 254913769472,
+    "disk_used": 218789605376,
+    "disk_free": 36124164096,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 616689664,
+    "swap_free": 11542654976,
+    "swap_usage_percent": 5.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:38:27",
+    "cpu_usage_per_core": [
+        43.1,
+        33.8,
+        29.7,
+        33.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 8109072384,
+    "ram_free": 381399040,
+    "ram_usage_percent": 95.5,
+    "disk_total": 254913769472,
+    "disk_used": 218806292480,
+    "disk_free": 36107476992,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 613638144,
+    "swap_free": 11545706496,
+    "swap_usage_percent": 5.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:39:28",
+    "cpu_usage_per_core": [
+        29.7,
+        28.1,
+        26.6,
+        23.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7562027008,
+    "ram_free": 928444416,
+    "ram_usage_percent": 89.1,
+    "disk_total": 254913769472,
+    "disk_used": 218811584512,
+    "disk_free": 36102184960,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 761782272,
+    "swap_free": 11397562368,
+    "swap_usage_percent": 6.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:40:30",
+    "cpu_usage_per_core": [
+        23.1,
+        15.6,
+        23.4,
+        31.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7350153216,
+    "ram_free": 1140318208,
+    "ram_usage_percent": 86.6,
+    "disk_total": 254913769472,
+    "disk_used": 218811097088,
+    "disk_free": 36102672384,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 761196544,
+    "swap_free": 11398148096,
+    "swap_usage_percent": 6.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:41:31",
+    "cpu_usage_per_core": [
+        25.0,
+        16.9,
+        14.1,
+        6.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7359516672,
+    "ram_free": 1130954752,
+    "ram_usage_percent": 86.7,
+    "disk_total": 254913769472,
+    "disk_used": 218811441152,
+    "disk_free": 36102328320,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 760266752,
+    "swap_free": 11399077888,
+    "swap_usage_percent": 6.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:42:32",
+    "cpu_usage_per_core": [
+        30.8,
+        26.6,
+        28.1,
+        37.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7470059520,
+    "ram_free": 1020411904,
+    "ram_usage_percent": 88.0,
+    "disk_total": 254913769472,
+    "disk_used": 218811789312,
+    "disk_free": 36101980160,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 759209984,
+    "swap_free": 11400134656,
+    "swap_usage_percent": 6.2,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:43:33",
+    "cpu_usage_per_core": [
+        24.6,
+        18.8,
+        21.9,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7376474112,
+    "ram_free": 1113997312,
+    "ram_usage_percent": 86.9,
+    "disk_total": 254913769472,
+    "disk_used": 218811596800,
+    "disk_free": 36102172672,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 761745408,
+    "swap_free": 11397599232,
+    "swap_usage_percent": 6.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:44:34",
+    "cpu_usage_per_core": [
+        91.5,
+        92.5,
+        97.0,
+        91.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7502528512,
+    "ram_free": 987942912,
+    "ram_usage_percent": 88.4,
+    "disk_total": 254913769472,
+    "disk_used": 218819252224,
+    "disk_free": 36094517248,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 747732992,
+    "swap_free": 11411611648,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:45:36",
+    "cpu_usage_per_core": [
+        35.4,
+        34.4,
+        35.9,
+        39.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7431811072,
+    "ram_free": 1058660352,
+    "ram_usage_percent": 87.5,
+    "disk_total": 254913769472,
+    "disk_used": 218831159296,
+    "disk_free": 36082610176,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 747429888,
+    "swap_free": 11411914752,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:46:37",
+    "cpu_usage_per_core": [
+        26.6,
+        41.5,
+        40.6,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7305162752,
+    "ram_free": 1185308672,
+    "ram_usage_percent": 86.0,
+    "disk_total": 254913769472,
+    "disk_used": 218831736832,
+    "disk_free": 36082032640,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 746119168,
+    "swap_free": 11413225472,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:47:38",
+    "cpu_usage_per_core": [
+        71.6,
+        71.4,
+        73.4,
+        73.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7262547968,
+    "ram_free": 1227923456,
+    "ram_usage_percent": 85.5,
+    "disk_total": 254913769472,
+    "disk_used": 218831970304,
+    "disk_free": 36081799168,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 746016768,
+    "swap_free": 11413327872,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:48:39",
+    "cpu_usage_per_core": [
+        56.1,
+        50.0,
+        54.7,
+        54.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7373819904,
+    "ram_free": 1116651520,
+    "ram_usage_percent": 86.8,
+    "disk_total": 254913769472,
+    "disk_used": 218832326656,
+    "disk_free": 36081442816,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 745992192,
+    "swap_free": 11413352448,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:49:40",
+    "cpu_usage_per_core": [
+        25.0,
+        25.0,
+        32.8,
+        29.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7312642048,
+    "ram_free": 1177829376,
+    "ram_usage_percent": 86.1,
+    "disk_total": 254913769472,
+    "disk_used": 218832580608,
+    "disk_free": 36081188864,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 745299968,
+    "swap_free": 11414044672,
+    "swap_usage_percent": 6.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:50:42",
+    "cpu_usage_per_core": [
+        40.9,
+        32.8,
+        28.1,
+        36.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7445983232,
+    "ram_free": 1044488192,
+    "ram_usage_percent": 87.7,
+    "disk_total": 254913769472,
+    "disk_used": 218832834560,
+    "disk_free": 36080934912,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 710447104,
+    "swap_free": 11448897536,
+    "swap_usage_percent": 5.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:51:43",
+    "cpu_usage_per_core": [
+        34.3,
+        33.3,
+        35.4,
+        29.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7330914304,
+    "ram_free": 1159557120,
+    "ram_usage_percent": 86.3,
+    "disk_total": 254913769472,
+    "disk_used": 218832793600,
+    "disk_free": 36080975872,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 710443008,
+    "swap_free": 11448901632,
+    "swap_usage_percent": 5.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:52:44",
+    "cpu_usage_per_core": [
+        23.9,
+        26.2,
+        26.2,
+        32.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7391993856,
+    "ram_free": 1098477568,
+    "ram_usage_percent": 87.1,
+    "disk_total": 254913769472,
+    "disk_used": 218832809984,
+    "disk_free": 36080959488,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 710426624,
+    "swap_free": 11448918016,
+    "swap_usage_percent": 5.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:53:45",
+    "cpu_usage_per_core": [
+        30.3,
+        18.8,
+        31.2,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7341981696,
+    "ram_free": 1148489728,
+    "ram_usage_percent": 86.5,
+    "disk_total": 254913769472,
+    "disk_used": 218836996096,
+    "disk_free": 36076773376,
+    "disk_usage_percent": 85.8,
+    "swap_total": 12159344640,
+    "swap_used": 732360704,
+    "swap_free": 11426983936,
+    "swap_usage_percent": 6.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:54:46",
+    "cpu_usage_per_core": [
+        55.2,
+        53.1,
+        61.5,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7918227456,
+    "ram_free": 572243968,
+    "ram_usage_percent": 93.3,
+    "disk_total": 254913769472,
+    "disk_used": 218847940608,
+    "disk_free": 36065828864,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 731516928,
+    "swap_free": 11427827712,
+    "swap_usage_percent": 6.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:55:47",
+    "cpu_usage_per_core": [
+        58.3,
+        61.2,
+        52.3,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7889051648,
+    "ram_free": 601419776,
+    "ram_usage_percent": 92.9,
+    "disk_total": 254913769472,
+    "disk_used": 218853740544,
+    "disk_free": 36060028928,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 715051008,
+    "swap_free": 11444293632,
+    "swap_usage_percent": 5.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:56:48",
+    "cpu_usage_per_core": [
+        78.5,
+        76.6,
+        78.1,
+        79.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7967010816,
+    "ram_free": 523460608,
+    "ram_usage_percent": 93.8,
+    "disk_total": 254913769472,
+    "disk_used": 218853240832,
+    "disk_free": 36060528640,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 715005952,
+    "swap_free": 11444338688,
+    "swap_usage_percent": 5.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:57:50",
+    "cpu_usage_per_core": [
+        54.7,
+        52.4,
+        66.7,
+        68.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7850156032,
+    "ram_free": 640315392,
+    "ram_usage_percent": 92.5,
+    "disk_total": 254913769472,
+    "disk_used": 218853707776,
+    "disk_free": 36060061696,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 721551360,
+    "swap_free": 11437793280,
+    "swap_usage_percent": 5.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:58:51",
+    "cpu_usage_per_core": [
+        69.2,
+        46.9,
+        67.2,
+        62.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7278518272,
+    "ram_free": 1211953152,
+    "ram_usage_percent": 85.7,
+    "disk_total": 254913769472,
+    "disk_used": 218853965824,
+    "disk_free": 36059803648,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 871878656,
+    "swap_free": 11287465984,
+    "swap_usage_percent": 7.2,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 10:59:52",
+    "cpu_usage_per_core": [
+        64.1,
+        57.8,
+        64.1,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7213621248,
+    "ram_free": 1276850176,
+    "ram_usage_percent": 85.0,
+    "disk_total": 254913769472,
+    "disk_used": 218854477824,
+    "disk_free": 36059291648,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 869203968,
+    "swap_free": 11290140672,
+    "swap_usage_percent": 7.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:00:53",
+    "cpu_usage_per_core": [
+        61.5,
+        53.1,
+        56.2,
+        53.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7263285248,
+    "ram_free": 1227186176,
+    "ram_usage_percent": 85.5,
+    "disk_total": 254913769472,
+    "disk_used": 218854789120,
+    "disk_free": 36058980352,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 868442112,
+    "swap_free": 11290902528,
+    "swap_usage_percent": 7.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:01:54",
+    "cpu_usage_per_core": [
+        35.8,
+        36.9,
+        37.5,
+        51.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7058853888,
+    "ram_free": 1431617536,
+    "ram_usage_percent": 83.1,
+    "disk_total": 254913769472,
+    "disk_used": 218855292928,
+    "disk_free": 36058476544,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1144389632,
+    "swap_free": 11014955008,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:02:55",
+    "cpu_usage_per_core": [
+        40.3,
+        31.2,
+        60.9,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7043162112,
+    "ram_free": 1447309312,
+    "ram_usage_percent": 83.0,
+    "disk_total": 254913769472,
+    "disk_used": 218855636992,
+    "disk_free": 36058132480,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1143222272,
+    "swap_free": 11016122368,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:03:56",
+    "cpu_usage_per_core": [
+        60.9,
+        59.4,
+        60.9,
+        65.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6644142080,
+    "ram_free": 1846329344,
+    "ram_usage_percent": 78.3,
+    "disk_total": 254913769472,
+    "disk_used": 218855649280,
+    "disk_free": 36058120192,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1229615104,
+    "swap_free": 10929729536,
+    "swap_usage_percent": 10.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:04:57",
+    "cpu_usage_per_core": [
+        46.2,
+        30.8,
+        52.3,
+        29.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6626746368,
+    "ram_free": 1863725056,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 218852401152,
+    "disk_free": 36061368320,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1229160448,
+    "swap_free": 10930184192,
+    "swap_usage_percent": 10.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:05:58",
+    "cpu_usage_per_core": [
+        50.7,
+        32.8,
+        45.3,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6554112000,
+    "ram_free": 1936359424,
+    "ram_usage_percent": 77.2,
+    "disk_total": 254913769472,
+    "disk_used": 218851639296,
+    "disk_free": 36062130176,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1221545984,
+    "swap_free": 10937798656,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:07:00",
+    "cpu_usage_per_core": [
+        57.6,
+        43.8,
+        57.8,
+        59.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6731849728,
+    "ram_free": 1758621696,
+    "ram_usage_percent": 79.3,
+    "disk_total": 254913769472,
+    "disk_used": 218860658688,
+    "disk_free": 36053110784,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1221226496,
+    "swap_free": 10938118144,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:08:01",
+    "cpu_usage_per_core": [
+        33.8,
+        34.4,
+        21.9,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6626340864,
+    "ram_free": 1864130560,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 218906804224,
+    "disk_free": 36006965248,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1221189632,
+    "swap_free": 10938155008,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:09:02",
+    "cpu_usage_per_core": [
+        58.8,
+        60.6,
+        67.2,
+        71.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6460448768,
+    "ram_free": 2030022656,
+    "ram_usage_percent": 76.1,
+    "disk_total": 254913769472,
+    "disk_used": 218924695552,
+    "disk_free": 35989073920,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1220472832,
+    "swap_free": 10938871808,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:10:04",
+    "cpu_usage_per_core": [
+        52.1,
+        56.1,
+        60.9,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6756323328,
+    "ram_free": 1734148096,
+    "ram_usage_percent": 79.6,
+    "disk_total": 254913769472,
+    "disk_used": 218930520064,
+    "disk_free": 35983249408,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1213276160,
+    "swap_free": 10946068480,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:11:05",
+    "cpu_usage_per_core": [
+        46.2,
+        42.2,
+        59.4,
+        54.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6702616576,
+    "ram_free": 1787854848,
+    "ram_usage_percent": 78.9,
+    "disk_total": 254913769472,
+    "disk_used": 218930212864,
+    "disk_free": 35983556608,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1210499072,
+    "swap_free": 10948845568,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:12:06",
+    "cpu_usage_per_core": [
+        70.0,
+        64.1,
+        54.7,
+        67.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6889558016,
+    "ram_free": 1600913408,
+    "ram_usage_percent": 81.1,
+    "disk_total": 254913769472,
+    "disk_used": 218931007488,
+    "disk_free": 35982761984,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1210384384,
+    "swap_free": 10948960256,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:13:07",
+    "cpu_usage_per_core": [
+        56.2,
+        46.2,
+        55.4,
+        62.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6729289728,
+    "ram_free": 1761181696,
+    "ram_usage_percent": 79.3,
+    "disk_total": 254913769472,
+    "disk_used": 218931720192,
+    "disk_free": 35982049280,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1185484800,
+    "swap_free": 10973859840,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:14:08",
+    "cpu_usage_per_core": [
+        41.5,
+        48.4,
+        50.0,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6837731328,
+    "ram_free": 1652740096,
+    "ram_usage_percent": 80.5,
+    "disk_total": 254913769472,
+    "disk_used": 218932158464,
+    "disk_free": 35981611008,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1207599104,
+    "swap_free": 10951745536,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:15:09",
+    "cpu_usage_per_core": [
+        39.1,
+        42.2,
+        43.8,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6761750528,
+    "ram_free": 1728720896,
+    "ram_usage_percent": 79.6,
+    "disk_total": 254913769472,
+    "disk_used": 218932809728,
+    "disk_free": 35980959744,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1207451648,
+    "swap_free": 10951892992,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:16:10",
+    "cpu_usage_per_core": [
+        25.8,
+        20.3,
+        20.3,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6346158080,
+    "ram_free": 2144313344,
+    "ram_usage_percent": 74.7,
+    "disk_total": 254913769472,
+    "disk_used": 218932908032,
+    "disk_free": 35980861440,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1207435264,
+    "swap_free": 10951909376,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:17:11",
+    "cpu_usage_per_core": [
+        40.8,
+        40.9,
+        46.3,
+        36.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6375051264,
+    "ram_free": 2115420160,
+    "ram_usage_percent": 75.1,
+    "disk_total": 254913769472,
+    "disk_used": 218932781056,
+    "disk_free": 35980988416,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1208807424,
+    "swap_free": 10950537216,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:18:12",
+    "cpu_usage_per_core": [
+        40.0,
+        39.1,
+        45.3,
+        31.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6443732992,
+    "ram_free": 2046738432,
+    "ram_usage_percent": 75.9,
+    "disk_total": 254913769472,
+    "disk_used": 218935300096,
+    "disk_free": 35978469376,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1208680448,
+    "swap_free": 10950664192,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:19:14",
+    "cpu_usage_per_core": [
+        39.4,
+        32.8,
+        37.5,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6356758528,
+    "ram_free": 2133712896,
+    "ram_usage_percent": 74.9,
+    "disk_total": 254913769472,
+    "disk_used": 218930159616,
+    "disk_free": 35983609856,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1219039232,
+    "swap_free": 10940305408,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:20:15",
+    "cpu_usage_per_core": [
+        40.9,
+        54.7,
+        59.4,
+        39.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6435659776,
+    "ram_free": 2054811648,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 218930630656,
+    "disk_free": 35983138816,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1218859008,
+    "swap_free": 10940485632,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:21:16",
+    "cpu_usage_per_core": [
+        50.0,
+        50.8,
+        42.2,
+        42.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6283329536,
+    "ram_free": 2207141888,
+    "ram_usage_percent": 74.0,
+    "disk_total": 254913769472,
+    "disk_used": 218931372032,
+    "disk_free": 35982397440,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1218682880,
+    "swap_free": 10940661760,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:22:17",
+    "cpu_usage_per_core": [
+        63.6,
+        51.6,
+        45.3,
+        51.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6633533440,
+    "ram_free": 1856937984,
+    "ram_usage_percent": 78.1,
+    "disk_total": 254913769472,
+    "disk_used": 218932060160,
+    "disk_free": 35981709312,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1212997632,
+    "swap_free": 10946347008,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:23:18",
+    "cpu_usage_per_core": [
+        44.6,
+        45.3,
+        57.8,
+        62.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6712918016,
+    "ram_free": 1777553408,
+    "ram_usage_percent": 79.1,
+    "disk_total": 254913769472,
+    "disk_used": 218933555200,
+    "disk_free": 35980214272,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1216995328,
+    "swap_free": 10942349312,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:24:19",
+    "cpu_usage_per_core": [
+        53.0,
+        53.1,
+        46.9,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6687375360,
+    "ram_free": 1803096064,
+    "ram_usage_percent": 78.8,
+    "disk_total": 254913769472,
+    "disk_used": 218934784000,
+    "disk_free": 35978985472,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1216937984,
+    "swap_free": 10942406656,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:25:21",
+    "cpu_usage_per_core": [
+        90.0,
+        84.6,
+        86.2,
+        81.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6739214336,
+    "ram_free": 1751257088,
+    "ram_usage_percent": 79.4,
+    "disk_total": 254913769472,
+    "disk_used": 218935214080,
+    "disk_free": 35978555392,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1216880640,
+    "swap_free": 10942464000,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:26:22",
+    "cpu_usage_per_core": [
+        51.5,
+        56.2,
+        70.3,
+        56.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6598664192,
+    "ram_free": 1891807232,
+    "ram_usage_percent": 77.7,
+    "disk_total": 254913769472,
+    "disk_used": 218935496704,
+    "disk_free": 35978272768,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1216761856,
+    "swap_free": 10942582784,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:27:23",
+    "cpu_usage_per_core": [
+        83.8,
+        71.2,
+        75.4,
+        73.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6785925120,
+    "ram_free": 1704546304,
+    "ram_usage_percent": 79.9,
+    "disk_total": 254913769472,
+    "disk_used": 218939559936,
+    "disk_free": 35974209536,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1210454016,
+    "swap_free": 10948890624,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:28:24",
+    "cpu_usage_per_core": [
+        60.9,
+        70.3,
+        75.4,
+        66.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6671818752,
+    "ram_free": 1818652672,
+    "ram_usage_percent": 78.6,
+    "disk_total": 254913769472,
+    "disk_used": 218940190720,
+    "disk_free": 35973578752,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1210368000,
+    "swap_free": 10948976640,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:29:26",
+    "cpu_usage_per_core": [
+        88.6,
+        95.6,
+        93.8,
+        90.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6894444544,
+    "ram_free": 1596026880,
+    "ram_usage_percent": 81.2,
+    "disk_total": 254913769472,
+    "disk_used": 218940084224,
+    "disk_free": 35973685248,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1210142720,
+    "swap_free": 10949201920,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:30:27",
+    "cpu_usage_per_core": [
+        72.1,
+        63.1,
+        62.5,
+        67.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6494253056,
+    "ram_free": 1996218368,
+    "ram_usage_percent": 76.5,
+    "disk_total": 254913769472,
+    "disk_used": 218940276736,
+    "disk_free": 35973492736,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1206665216,
+    "swap_free": 10952679424,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:31:28",
+    "cpu_usage_per_core": [
+        56.1,
+        54.7,
+        54.7,
+        64.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6673334272,
+    "ram_free": 1817137152,
+    "ram_usage_percent": 78.6,
+    "disk_total": 254913769472,
+    "disk_used": 218941702144,
+    "disk_free": 35972067328,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1206288384,
+    "swap_free": 10953056256,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:32:29",
+    "cpu_usage_per_core": [
+        35.4,
+        32.8,
+        40.6,
+        43.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6429261824,
+    "ram_free": 2061209600,
+    "ram_usage_percent": 75.7,
+    "disk_total": 254913769472,
+    "disk_used": 218941890560,
+    "disk_free": 35971878912,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1206272000,
+    "swap_free": 10953072640,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:33:30",
+    "cpu_usage_per_core": [
+        51.5,
+        58.5,
+        54.7,
+        65.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6378602496,
+    "ram_free": 2111868928,
+    "ram_usage_percent": 75.1,
+    "disk_total": 254913769472,
+    "disk_used": 218942279680,
+    "disk_free": 35971489792,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1207463936,
+    "swap_free": 10951880704,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:34:31",
+    "cpu_usage_per_core": [
+        29.7,
+        28.1,
+        25.0,
+        25.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6372589568,
+    "ram_free": 2117881856,
+    "ram_usage_percent": 75.1,
+    "disk_total": 254913769472,
+    "disk_used": 218942783488,
+    "disk_free": 35970985984,
+    "disk_usage_percent": 85.9,
+    "swap_total": 12159344640,
+    "swap_used": 1207431168,
+    "swap_free": 10951913472,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:35:33",
+    "cpu_usage_per_core": [
+        28.1,
+        31.2,
+        50.0,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6404829184,
+    "ram_free": 2085642240,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219174969344,
+    "disk_free": 35738800128,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1207382016,
+    "swap_free": 10951962624,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:36:34",
+    "cpu_usage_per_core": [
+        45.3,
+        40.0,
+        51.6,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6401814528,
+    "ram_free": 2088656896,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219171229696,
+    "disk_free": 35742539776,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1206939648,
+    "swap_free": 10952404992,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:37:35",
+    "cpu_usage_per_core": [
+        23.4,
+        25.8,
+        23.4,
+        23.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6370193408,
+    "ram_free": 2120278016,
+    "ram_usage_percent": 75.0,
+    "disk_total": 254913769472,
+    "disk_used": 219171389440,
+    "disk_free": 35742380032,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1206910976,
+    "swap_free": 10952433664,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:38:36",
+    "cpu_usage_per_core": [
+        72.9,
+        61.5,
+        70.3,
+        65.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6630199296,
+    "ram_free": 1860272128,
+    "ram_usage_percent": 78.1,
+    "disk_total": 254913769472,
+    "disk_used": 219180138496,
+    "disk_free": 35733630976,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1206865920,
+    "swap_free": 10952478720,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:39:37",
+    "cpu_usage_per_core": [
+        73.1,
+        71.9,
+        78.1,
+        81.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6843187200,
+    "ram_free": 1647284224,
+    "ram_usage_percent": 80.6,
+    "disk_total": 254913769472,
+    "disk_used": 219177906176,
+    "disk_free": 35735863296,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1205567488,
+    "swap_free": 10953777152,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:40:38",
+    "cpu_usage_per_core": [
+        54.7,
+        53.1,
+        56.2,
+        65.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6695305216,
+    "ram_free": 1795166208,
+    "ram_usage_percent": 78.9,
+    "disk_total": 254913769472,
+    "disk_used": 219178037248,
+    "disk_free": 35735732224,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1205538816,
+    "swap_free": 10953805824,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:41:40",
+    "cpu_usage_per_core": [
+        71.2,
+        73.4,
+        79.7,
+        78.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6766989312,
+    "ram_free": 1723482112,
+    "ram_usage_percent": 79.7,
+    "disk_total": 254913769472,
+    "disk_used": 219178668032,
+    "disk_free": 35735101440,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1204842496,
+    "swap_free": 10954502144,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:42:41",
+    "cpu_usage_per_core": [
+        45.8,
+        31.3,
+        36.9,
+        42.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6428872704,
+    "ram_free": 2061598720,
+    "ram_usage_percent": 75.7,
+    "disk_total": 254913769472,
+    "disk_used": 219179577344,
+    "disk_free": 35734192128,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1204826112,
+    "swap_free": 10954518528,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:43:42",
+    "cpu_usage_per_core": [
+        58.2,
+        59.4,
+        53.8,
+        60.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6653444096,
+    "ram_free": 1837027328,
+    "ram_usage_percent": 78.4,
+    "disk_total": 254913769472,
+    "disk_used": 219179806720,
+    "disk_free": 35733962752,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1207648256,
+    "swap_free": 10951696384,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:44:43",
+    "cpu_usage_per_core": [
+        34.8,
+        30.8,
+        36.9,
+        37.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6419562496,
+    "ram_free": 2070908928,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219180630016,
+    "disk_free": 35733139456,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1207615488,
+    "swap_free": 10951729152,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:45:44",
+    "cpu_usage_per_core": [
+        46.2,
+        57.8,
+        45.3,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6310658048,
+    "ram_free": 2179813376,
+    "ram_usage_percent": 74.3,
+    "disk_total": 254913769472,
+    "disk_used": 219181608960,
+    "disk_free": 35732160512,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1207590912,
+    "swap_free": 10951753728,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:46:45",
+    "cpu_usage_per_core": [
+        45.3,
+        37.5,
+        53.1,
+        50.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6567235584,
+    "ram_free": 1923235840,
+    "ram_usage_percent": 77.3,
+    "disk_total": 254913769472,
+    "disk_used": 219178291200,
+    "disk_free": 35735478272,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1207582720,
+    "swap_free": 10951761920,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:47:46",
+    "cpu_usage_per_core": [
+        40.6,
+        24.6,
+        43.8,
+        37.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6598488064,
+    "ram_free": 1891983360,
+    "ram_usage_percent": 77.7,
+    "disk_total": 254913769472,
+    "disk_used": 219178340352,
+    "disk_free": 35735429120,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1206808576,
+    "swap_free": 10952536064,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:48:47",
+    "cpu_usage_per_core": [
+        81.8,
+        81.5,
+        80.0,
+        86.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6656585728,
+    "ram_free": 1833885696,
+    "ram_usage_percent": 78.4,
+    "disk_total": 254913769472,
+    "disk_used": 219181465600,
+    "disk_free": 35732303872,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1208410112,
+    "swap_free": 10950934528,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:49:49",
+    "cpu_usage_per_core": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6795071488,
+    "ram_free": 1695399936,
+    "ram_usage_percent": 80.0,
+    "disk_total": 254913769472,
+    "disk_used": 219182006272,
+    "disk_free": 35731763200,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1208311808,
+    "swap_free": 10951032832,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:50:50",
+    "cpu_usage_per_core": [
+        45.3,
+        48.4,
+        56.2,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6554632192,
+    "ram_free": 1935839232,
+    "ram_usage_percent": 77.2,
+    "disk_total": 254913769472,
+    "disk_used": 219182637056,
+    "disk_free": 35731132416,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1199616000,
+    "swap_free": 10959728640,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:51:51",
+    "cpu_usage_per_core": [
+        45.5,
+        47.7,
+        53.1,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6687649792,
+    "ram_free": 1802821632,
+    "ram_usage_percent": 78.8,
+    "disk_total": 254913769472,
+    "disk_used": 219166867456,
+    "disk_free": 35746902016,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1199595520,
+    "swap_free": 10959749120,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:52:52",
+    "cpu_usage_per_core": [
+        64.3,
+        56.9,
+        55.4,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6540042240,
+    "ram_free": 1950429184,
+    "ram_usage_percent": 77.0,
+    "disk_total": 254913769472,
+    "disk_used": 219167232000,
+    "disk_free": 35746537472,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1199583232,
+    "swap_free": 10959761408,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:53:53",
+    "cpu_usage_per_core": [
+        64.3,
+        56.2,
+        59.4,
+        69.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6448701440,
+    "ram_free": 2041769984,
+    "ram_usage_percent": 76.0,
+    "disk_total": 254913769472,
+    "disk_used": 219167350784,
+    "disk_free": 35746418688,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1198022656,
+    "swap_free": 10961321984,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:54:54",
+    "cpu_usage_per_core": [
+        44.8,
+        43.1,
+        45.3,
+        51.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6357749760,
+    "ram_free": 2132721664,
+    "ram_usage_percent": 74.9,
+    "disk_total": 254913769472,
+    "disk_used": 219168931840,
+    "disk_free": 35744837632,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1197989888,
+    "swap_free": 10961354752,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:55:55",
+    "cpu_usage_per_core": [
+        31.8,
+        29.7,
+        28.1,
+        26.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6435631104,
+    "ram_free": 2054840320,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219169042432,
+    "disk_free": 35744727040,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1160929280,
+    "swap_free": 10998415360,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:56:56",
+    "cpu_usage_per_core": [
+        46.4,
+        37.5,
+        45.3,
+        51.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6436663296,
+    "ram_free": 2053808128,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219169054720,
+    "disk_free": 35744714752,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1160912896,
+    "swap_free": 10998431744,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:57:58",
+    "cpu_usage_per_core": [
+        51.5,
+        37.9,
+        43.9,
+        55.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6488055808,
+    "ram_free": 2002415616,
+    "ram_usage_percent": 76.4,
+    "disk_total": 254913769472,
+    "disk_used": 219169013760,
+    "disk_free": 35744755712,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1160839168,
+    "swap_free": 10998505472,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 11:58:59",
+    "cpu_usage_per_core": [
+        40.9,
+        39.1,
+        50.0,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6652858368,
+    "ram_free": 1837613056,
+    "ram_usage_percent": 78.4,
+    "disk_total": 254913769472,
+    "disk_used": 219155984384,
+    "disk_free": 35757785088,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1163956224,
+    "swap_free": 10995388416,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:00:00",
+    "cpu_usage_per_core": [
+        100.0,
+        100.0,
+        100.0,
+        100.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6881148928,
+    "ram_free": 1609322496,
+    "ram_usage_percent": 81.0,
+    "disk_total": 254913769472,
+    "disk_used": 219156971520,
+    "disk_free": 35756797952,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1163948032,
+    "swap_free": 10995396608,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:01:01",
+    "cpu_usage_per_core": [
+        80.3,
+        76.9,
+        81.5,
+        78.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6826598400,
+    "ram_free": 1663873024,
+    "ram_usage_percent": 80.4,
+    "disk_total": 254913769472,
+    "disk_used": 219172261888,
+    "disk_free": 35741507584,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1163931648,
+    "swap_free": 10995412992,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:02:02",
+    "cpu_usage_per_core": [
+        50.8,
+        48.4,
+        50.0,
+        59.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6867161088,
+    "ram_free": 1623310336,
+    "ram_usage_percent": 80.9,
+    "disk_total": 254913769472,
+    "disk_used": 219169218560,
+    "disk_free": 35744550912,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1163911168,
+    "swap_free": 10995433472,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:03:04",
+    "cpu_usage_per_core": [
+        41.5,
+        26.6,
+        29.7,
+        15.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6576549888,
+    "ram_free": 1913921536,
+    "ram_usage_percent": 77.5,
+    "disk_total": 254913769472,
+    "disk_used": 219170533376,
+    "disk_free": 35743236096,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1163800576,
+    "swap_free": 10995544064,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:04:05",
+    "cpu_usage_per_core": [
+        47.8,
+        45.3,
+        40.6,
+        42.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6537310208,
+    "ram_free": 1953161216,
+    "ram_usage_percent": 77.0,
+    "disk_total": 254913769472,
+    "disk_used": 219164905472,
+    "disk_free": 35748864000,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1164492800,
+    "swap_free": 10994851840,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:05:06",
+    "cpu_usage_per_core": [
+        14.1,
+        4.7,
+        10.8,
+        26.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6411714560,
+    "ram_free": 2078756864,
+    "ram_usage_percent": 75.5,
+    "disk_total": 254913769472,
+    "disk_used": 219165470720,
+    "disk_free": 35748298752,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1164374016,
+    "swap_free": 10994970624,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:06:07",
+    "cpu_usage_per_core": [
+        25.8,
+        17.2,
+        20.3,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6440255488,
+    "ram_free": 2050215936,
+    "ram_usage_percent": 75.9,
+    "disk_total": 254913769472,
+    "disk_used": 219165872128,
+    "disk_free": 35747897344,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1164218368,
+    "swap_free": 10995126272,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:07:08",
+    "cpu_usage_per_core": [
+        58.0,
+        61.9,
+        57.8,
+        60.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6459494400,
+    "ram_free": 2030977024,
+    "ram_usage_percent": 76.1,
+    "disk_total": 254913769472,
+    "disk_used": 219166355456,
+    "disk_free": 35747414016,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1164218368,
+    "swap_free": 10995126272,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:08:09",
+    "cpu_usage_per_core": [
+        27.7,
+        28.1,
+        26.6,
+        31.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6782394368,
+    "ram_free": 1708077056,
+    "ram_usage_percent": 79.9,
+    "disk_total": 254913769472,
+    "disk_used": 219166453760,
+    "disk_free": 35747315712,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1151705088,
+    "swap_free": 11007639552,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:09:10",
+    "cpu_usage_per_core": [
+        23.4,
+        4.7,
+        17.2,
+        9.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6600228864,
+    "ram_free": 1890242560,
+    "ram_usage_percent": 77.7,
+    "disk_total": 254913769472,
+    "disk_used": 219167064064,
+    "disk_free": 35746705408,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1187688448,
+    "swap_free": 10971656192,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:10:11",
+    "cpu_usage_per_core": [
+        6.2,
+        9.4,
+        6.2,
+        9.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6498439168,
+    "ram_free": 1992032256,
+    "ram_usage_percent": 76.5,
+    "disk_total": 254913769472,
+    "disk_used": 219167281152,
+    "disk_free": 35746488320,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1186668544,
+    "swap_free": 10972676096,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:11:12",
+    "cpu_usage_per_core": [
+        18.8,
+        4.7,
+        18.8,
+        6.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6520979456,
+    "ram_free": 1969491968,
+    "ram_usage_percent": 76.8,
+    "disk_total": 254913769472,
+    "disk_used": 219167592448,
+    "disk_free": 35746177024,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1186488320,
+    "swap_free": 10972856320,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:12:13",
+    "cpu_usage_per_core": [
+        10.9,
+        12.7,
+        15.6,
+        12.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6489628672,
+    "ram_free": 2000842752,
+    "ram_usage_percent": 76.4,
+    "disk_total": 254913769472,
+    "disk_used": 219167494144,
+    "disk_free": 35746275328,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1186390016,
+    "swap_free": 10972954624,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:13:14",
+    "cpu_usage_per_core": [
+        23.4,
+        6.2,
+        7.8,
+        1.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6518054912,
+    "ram_free": 1972416512,
+    "ram_usage_percent": 76.8,
+    "disk_total": 254913769472,
+    "disk_used": 219165270016,
+    "disk_free": 35748499456,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1170788352,
+    "swap_free": 10988556288,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:14:15",
+    "cpu_usage_per_core": [
+        15.6,
+        7.8,
+        10.9,
+        23.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6511177728,
+    "ram_free": 1979293696,
+    "ram_usage_percent": 76.7,
+    "disk_total": 254913769472,
+    "disk_used": 219159916544,
+    "disk_free": 35753852928,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1169940480,
+    "swap_free": 10989404160,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:15:17",
+    "cpu_usage_per_core": [
+        14.1,
+        7.7,
+        10.9,
+        15.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6422237184,
+    "ram_free": 2068234240,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219160317952,
+    "disk_free": 35753451520,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1169833984,
+    "swap_free": 10989510656,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:16:18",
+    "cpu_usage_per_core": [
+        15.4,
+        23.4,
+        26.6,
+        14.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6439288832,
+    "ram_free": 2051182592,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219159969792,
+    "disk_free": 35753799680,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1169657856,
+    "swap_free": 10989686784,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:17:19",
+    "cpu_usage_per_core": [
+        25.0,
+        9.7,
+        10.9,
+        10.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6478508032,
+    "ram_free": 2011963392,
+    "ram_usage_percent": 76.3,
+    "disk_total": 254913769472,
+    "disk_used": 219158511616,
+    "disk_free": 35755257856,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1169485824,
+    "swap_free": 10989858816,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:18:20",
+    "cpu_usage_per_core": [
+        20.3,
+        10.9,
+        10.9,
+        12.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6469062656,
+    "ram_free": 2021408768,
+    "ram_usage_percent": 76.2,
+    "disk_total": 254913769472,
+    "disk_used": 219158470656,
+    "disk_free": 35755298816,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1184276480,
+    "swap_free": 10975068160,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:19:21",
+    "cpu_usage_per_core": [
+        7.8,
+        3.1,
+        12.5,
+        3.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6401298432,
+    "ram_free": 2089172992,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219159257088,
+    "disk_free": 35754512384,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1184157696,
+    "swap_free": 10975186944,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:20:22",
+    "cpu_usage_per_core": [
+        17.2,
+        7.7,
+        7.8,
+        16.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6394478592,
+    "ram_free": 2095992832,
+    "ram_usage_percent": 75.3,
+    "disk_total": 254913769472,
+    "disk_used": 219154993152,
+    "disk_free": 35758776320,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1184133120,
+    "swap_free": 10975211520,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:21:23",
+    "cpu_usage_per_core": [
+        17.2,
+        1.6,
+        3.1,
+        3.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6406074368,
+    "ram_free": 2084397056,
+    "ram_usage_percent": 75.5,
+    "disk_total": 254913769472,
+    "disk_used": 219155243008,
+    "disk_free": 35758526464,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183981568,
+    "swap_free": 10975363072,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:22:24",
+    "cpu_usage_per_core": [
+        17.2,
+        17.5,
+        17.2,
+        14.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6398877696,
+    "ram_free": 2091593728,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219154755584,
+    "disk_free": 35759013888,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183940608,
+    "swap_free": 10975404032,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:23:25",
+    "cpu_usage_per_core": [
+        10.9,
+        3.1,
+        17.2,
+        6.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6434246656,
+    "ram_free": 2056224768,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219155124224,
+    "disk_free": 35758645248,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183875072,
+    "swap_free": 10975469568,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:24:26",
+    "cpu_usage_per_core": [
+        10.9,
+        6.2,
+        12.5,
+        15.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6436139008,
+    "ram_free": 2054332416,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219156189184,
+    "disk_free": 35757580288,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183870976,
+    "swap_free": 10975473664,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:25:27",
+    "cpu_usage_per_core": [
+        17.2,
+        1.6,
+        9.4,
+        3.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6401912832,
+    "ram_free": 2088558592,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219155361792,
+    "disk_free": 35758407680,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183817728,
+    "swap_free": 10975526912,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:26:28",
+    "cpu_usage_per_core": [
+        18.8,
+        3.2,
+        3.1,
+        7.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6423633920,
+    "ram_free": 2066837504,
+    "ram_usage_percent": 75.7,
+    "disk_total": 254913769472,
+    "disk_used": 219155361792,
+    "disk_free": 35758407680,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183793152,
+    "swap_free": 10975551488,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:27:29",
+    "cpu_usage_per_core": [
+        4.7,
+        1.6,
+        3.1,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6421737472,
+    "ram_free": 2068733952,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219155795968,
+    "disk_free": 35757973504,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183772672,
+    "swap_free": 10975571968,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:28:31",
+    "cpu_usage_per_core": [
+        14.1,
+        18.5,
+        9.4,
+        9.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6444625920,
+    "ram_free": 2045845504,
+    "ram_usage_percent": 75.9,
+    "disk_total": 254913769472,
+    "disk_used": 219153354752,
+    "disk_free": 35760414720,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183621120,
+    "swap_free": 10975723520,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:29:32",
+    "cpu_usage_per_core": [
+        25.0,
+        9.2,
+        7.8,
+        18.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6431698944,
+    "ram_free": 2058772480,
+    "ram_usage_percent": 75.8,
+    "disk_total": 254913769472,
+    "disk_used": 219153747968,
+    "disk_free": 35760021504,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1183510528,
+    "swap_free": 10975834112,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:30:33",
+    "cpu_usage_per_core": [
+        12.5,
+        11.1,
+        12.5,
+        13.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6421626880,
+    "ram_free": 2068844544,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219153682432,
+    "disk_free": 35760087040,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1191706624,
+    "swap_free": 10967638016,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:31:34",
+    "cpu_usage_per_core": [
+        17.2,
+        11.1,
+        7.8,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6400167936,
+    "ram_free": 2090303488,
+    "ram_usage_percent": 75.4,
+    "disk_total": 254913769472,
+    "disk_used": 219153940480,
+    "disk_free": 35759828992,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1189076992,
+    "swap_free": 10970267648,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:32:35",
+    "cpu_usage_per_core": [
+        9.4,
+        0.0,
+        1.6,
+        9.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6394945536,
+    "ram_free": 2095525888,
+    "ram_usage_percent": 75.3,
+    "disk_total": 254913769472,
+    "disk_used": 219154132992,
+    "disk_free": 35759636480,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1189036032,
+    "swap_free": 10970308608,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:33:36",
+    "cpu_usage_per_core": [
+        4.7,
+        15.9,
+        4.7,
+        15.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6467903488,
+    "ram_free": 2022567936,
+    "ram_usage_percent": 76.2,
+    "disk_total": 254913769472,
+    "disk_used": 219154919424,
+    "disk_free": 35758850048,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1188970496,
+    "swap_free": 10970374144,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:34:37",
+    "cpu_usage_per_core": [
+        15.6,
+        4.7,
+        14.1,
+        23.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6431404032,
+    "ram_free": 2059067392,
+    "ram_usage_percent": 75.7,
+    "disk_total": 254913769472,
+    "disk_used": 219155845120,
+    "disk_free": 35757924352,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1188851712,
+    "swap_free": 10970492928,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:35:38",
+    "cpu_usage_per_core": [
+        26.6,
+        23.8,
+        26.6,
+        39.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6422056960,
+    "ram_free": 2068414464,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219155009536,
+    "disk_free": 35758759936,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1188651008,
+    "swap_free": 10970693632,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:36:39",
+    "cpu_usage_per_core": [
+        10.9,
+        7.6,
+        1.6,
+        12.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6455681024,
+    "ram_free": 2034790400,
+    "ram_usage_percent": 76.0,
+    "disk_total": 254913769472,
+    "disk_used": 219155890176,
+    "disk_free": 35757879296,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1154801664,
+    "swap_free": 11004542976,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:37:40",
+    "cpu_usage_per_core": [
+        4.7,
+        32.8,
+        12.5,
+        9.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6420193280,
+    "ram_free": 2070278144,
+    "ram_usage_percent": 75.6,
+    "disk_total": 254913769472,
+    "disk_used": 219155709952,
+    "disk_free": 35758059520,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1172619264,
+    "swap_free": 10986725376,
+    "swap_usage_percent": 9.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:55:20",
+    "cpu_usage_per_core": [
+        50.0,
+        31.3,
+        38.6,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6624161792,
+    "ram_free": 1866309632,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 219153219584,
+    "disk_free": 35760549888,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1080717312,
+    "swap_free": 11078627328,
+    "swap_usage_percent": 8.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:56:23",
+    "cpu_usage_per_core": [
+        30.3,
+        18.5,
+        25.0,
+        25.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7075233792,
+    "ram_free": 1415237632,
+    "ram_usage_percent": 83.3,
+    "disk_total": 254913769472,
+    "disk_used": 219152601088,
+    "disk_free": 35761168384,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1055662080,
+    "swap_free": 11103682560,
+    "swap_usage_percent": 8.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:57:24",
+    "cpu_usage_per_core": [
+        24.6,
+        7.8,
+        12.5,
+        14.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6837280768,
+    "ram_free": 1653190656,
+    "ram_usage_percent": 80.5,
+    "disk_total": 254913769472,
+    "disk_used": 219157905408,
+    "disk_free": 35755864064,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1060081663,
+    "swap_free": 11099262977,
+    "swap_usage_percent": 8.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:58:25",
+    "cpu_usage_per_core": [
+        56.7,
+        59.4,
+        68.8,
+        64.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7174340608,
+    "ram_free": 1316130816,
+    "ram_usage_percent": 84.5,
+    "disk_total": 254913769472,
+    "disk_used": 219158061056,
+    "disk_free": 35755708416,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1291165696,
+    "swap_free": 10868178944,
+    "swap_usage_percent": 10.6,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 12:59:26",
+    "cpu_usage_per_core": [
+        54.7,
+        40.6,
+        56.2,
+        57.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7151104000,
+    "ram_free": 1339367424,
+    "ram_usage_percent": 84.2,
+    "disk_total": 254913769472,
+    "disk_used": 219173773312,
+    "disk_free": 35739996160,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1234853888,
+    "swap_free": 10924490752,
+    "swap_usage_percent": 10.2,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:00:27",
+    "cpu_usage_per_core": [
+        23.9,
+        23.4,
+        23.4,
+        18.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6936576000,
+    "ram_free": 1553895424,
+    "ram_usage_percent": 81.7,
+    "disk_total": 254913769472,
+    "disk_used": 219174948864,
+    "disk_free": 35738820608,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1218310144,
+    "swap_free": 10941034496,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:01:28",
+    "cpu_usage_per_core": [
+        27.9,
+        20.0,
+        20.3,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7331303424,
+    "ram_free": 1159168000,
+    "ram_usage_percent": 86.3,
+    "disk_total": 254913769472,
+    "disk_used": 219175784448,
+    "disk_free": 35737985024,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1217904640,
+    "swap_free": 10941440000,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:02:30",
+    "cpu_usage_per_core": [
+        45.5,
+        32.8,
+        31.2,
+        47.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7423815680,
+    "ram_free": 1066655744,
+    "ram_usage_percent": 87.4,
+    "disk_total": 254913769472,
+    "disk_used": 219177332736,
+    "disk_free": 35736436736,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1217523712,
+    "swap_free": 10941820928,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:03:31",
+    "cpu_usage_per_core": [
+        37.9,
+        20.3,
+        35.4,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7328210944,
+    "ram_free": 1162260480,
+    "ram_usage_percent": 86.3,
+    "disk_total": 254913769472,
+    "disk_used": 219177811968,
+    "disk_free": 35735957504,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1217503232,
+    "swap_free": 10941841408,
+    "swap_usage_percent": 10.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:04:32",
+    "cpu_usage_per_core": [
+        66.7,
+        45.3,
+        64.6,
+        56.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7492587520,
+    "ram_free": 997883904,
+    "ram_usage_percent": 88.2,
+    "disk_total": 254913769472,
+    "disk_used": 219178532864,
+    "disk_free": 35735236608,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1202053120,
+    "swap_free": 10957291520,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:05:33",
+    "cpu_usage_per_core": [
+        72.3,
+        71.9,
+        68.8,
+        53.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7573180416,
+    "ram_free": 917291008,
+    "ram_usage_percent": 89.2,
+    "disk_total": 254913769472,
+    "disk_used": 219178926080,
+    "disk_free": 35734843392,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1201098752,
+    "swap_free": 10958245888,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:06:34",
+    "cpu_usage_per_core": [
+        30.8,
+        21.9,
+        37.5,
+        21.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7370309632,
+    "ram_free": 1120161792,
+    "ram_usage_percent": 86.8,
+    "disk_total": 254913769472,
+    "disk_used": 219188113408,
+    "disk_free": 35725656064,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1200939008,
+    "swap_free": 10958405632,
+    "swap_usage_percent": 9.9,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:07:35",
+    "cpu_usage_per_core": [
+        23.4,
+        25.0,
+        23.4,
+        32.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7205376000,
+    "ram_free": 1285095424,
+    "ram_usage_percent": 84.9,
+    "disk_total": 254913769472,
+    "disk_used": 219183079424,
+    "disk_free": 35730690048,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1194135552,
+    "swap_free": 10965209088,
+    "swap_usage_percent": 9.8,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:08:37",
+    "cpu_usage_per_core": [
+        35.4,
+        37.5,
+        51.6,
+        37.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7528034304,
+    "ram_free": 962437120,
+    "ram_usage_percent": 88.7,
+    "disk_total": 254913769472,
+    "disk_used": 219186630656,
+    "disk_free": 35727138816,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1229660160,
+    "swap_free": 10929684480,
+    "swap_usage_percent": 10.1,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:09:38",
+    "cpu_usage_per_core": [
+        65.2,
+        50.0,
+        62.5,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7638495232,
+    "ram_free": 851976192,
+    "ram_usage_percent": 90.0,
+    "disk_total": 254913769472,
+    "disk_used": 219190419456,
+    "disk_free": 35723350016,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1137627136,
+    "swap_free": 11021717504,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:10:39",
+    "cpu_usage_per_core": [
+        38.0,
+        23.4,
+        25.0,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7472988160,
+    "ram_free": 1017483264,
+    "ram_usage_percent": 88.0,
+    "disk_total": 254913769472,
+    "disk_used": 219187986432,
+    "disk_free": 35725783040,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1133854720,
+    "swap_free": 11025489920,
+    "swap_usage_percent": 9.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:11:40",
+    "cpu_usage_per_core": [
+        28.4,
+        25.8,
+        18.8,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7317241856,
+    "ram_free": 1173229568,
+    "ram_usage_percent": 86.2,
+    "disk_total": 254913769472,
+    "disk_used": 219189350400,
+    "disk_free": 35724419072,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1126121472,
+    "swap_free": 11033223168,
+    "swap_usage_percent": 9.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:12:41",
+    "cpu_usage_per_core": [
+        21.9,
+        18.5,
+        18.5,
+        26.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7403929600,
+    "ram_free": 1086541824,
+    "ram_usage_percent": 87.2,
+    "disk_total": 254913769472,
+    "disk_used": 219188744192,
+    "disk_free": 35725025280,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1124794368,
+    "swap_free": 11034550272,
+    "swap_usage_percent": 9.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:13:43",
+    "cpu_usage_per_core": [
+        24.6,
+        26.6,
+        29.7,
+        18.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7359909888,
+    "ram_free": 1130561536,
+    "ram_usage_percent": 86.7,
+    "disk_total": 254913769472,
+    "disk_used": 219176136704,
+    "disk_free": 35737632768,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1124671488,
+    "swap_free": 11034673152,
+    "swap_usage_percent": 9.2,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:14:44",
+    "cpu_usage_per_core": [
+        50.7,
+        41.5,
+        40.6,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7465857024,
+    "ram_free": 1024614400,
+    "ram_usage_percent": 87.9,
+    "disk_total": 254913769472,
+    "disk_used": 219152031744,
+    "disk_free": 35761737728,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1124487168,
+    "swap_free": 11034857472,
+    "swap_usage_percent": 9.2,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:15:45",
+    "cpu_usage_per_core": [
+        76.5,
+        78.1,
+        78.1,
+        83.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7392235520,
+    "ram_free": 1098235904,
+    "ram_usage_percent": 87.1,
+    "disk_total": 254913769472,
+    "disk_used": 219153530880,
+    "disk_free": 35760238592,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1149231104,
+    "swap_free": 11010113536,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:16:46",
+    "cpu_usage_per_core": [
+        24.2,
+        15.6,
+        24.6,
+        23.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7533318144,
+    "ram_free": 957153280,
+    "ram_usage_percent": 88.7,
+    "disk_total": 254913769472,
+    "disk_used": 219194540032,
+    "disk_free": 35719229440,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1148801024,
+    "swap_free": 11010543616,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:17:48",
+    "cpu_usage_per_core": [
+        44.6,
+        37.5,
+        35.4,
+        42.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7588696064,
+    "ram_free": 901775360,
+    "ram_usage_percent": 89.4,
+    "disk_total": 254913769472,
+    "disk_used": 219194531840,
+    "disk_free": 35719237632,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1148297216,
+    "swap_free": 11011047424,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:18:49",
+    "cpu_usage_per_core": [
+        39.1,
+        21.9,
+        32.8,
+        31.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7435534336,
+    "ram_free": 1054937088,
+    "ram_usage_percent": 87.6,
+    "disk_total": 254913769472,
+    "disk_used": 219185496064,
+    "disk_free": 35728273408,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1151385600,
+    "swap_free": 11007959040,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:19:50",
+    "cpu_usage_per_core": [
+        41.4,
+        32.8,
+        31.2,
+        40.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7355449344,
+    "ram_free": 1135022080,
+    "ram_usage_percent": 86.6,
+    "disk_total": 254913769472,
+    "disk_used": 219182202880,
+    "disk_free": 35731566592,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1150722048,
+    "swap_free": 11008622592,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:20:51",
+    "cpu_usage_per_core": [
+        10.9,
+        14.1,
+        4.7,
+        10.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7562735616,
+    "ram_free": 927735808,
+    "ram_usage_percent": 89.1,
+    "disk_total": 254913769472,
+    "disk_used": 219183079424,
+    "disk_free": 35730690048,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1150373888,
+    "swap_free": 11008970752,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:21:52",
+    "cpu_usage_per_core": [
+        16.7,
+        14.1,
+        10.9,
+        26.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7571619840,
+    "ram_free": 918851584,
+    "ram_usage_percent": 89.2,
+    "disk_total": 254913769472,
+    "disk_used": 219183869952,
+    "disk_free": 35729899520,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1149935616,
+    "swap_free": 11009409024,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:22:53",
+    "cpu_usage_per_core": [
+        66.7,
+        64.6,
+        68.8,
+        68.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7808528384,
+    "ram_free": 681943040,
+    "ram_usage_percent": 92.0,
+    "disk_total": 254913769472,
+    "disk_used": 219185373184,
+    "disk_free": 35728396288,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1149513728,
+    "swap_free": 11009830912,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:23:54",
+    "cpu_usage_per_core": [
+        81.5,
+        87.5,
+        86.2,
+        87.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7931437056,
+    "ram_free": 559034368,
+    "ram_usage_percent": 93.4,
+    "disk_total": 254913769472,
+    "disk_used": 219205603328,
+    "disk_free": 35708166144,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1148887040,
+    "swap_free": 11010457600,
+    "swap_usage_percent": 9.4,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:24:56",
+    "cpu_usage_per_core": [
+        47.0,
+        54.7,
+        59.4,
+        65.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7790886912,
+    "ram_free": 699584512,
+    "ram_usage_percent": 91.8,
+    "disk_total": 254913769472,
+    "disk_used": 219202248704,
+    "disk_free": 35711520768,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1154428928,
+    "swap_free": 11004915712,
+    "swap_usage_percent": 9.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:25:57",
+    "cpu_usage_per_core": [
+        67.6,
+        51.6,
+        65.6,
+        60.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 8042299392,
+    "ram_free": 448172032,
+    "ram_usage_percent": 94.7,
+    "disk_total": 254913769472,
+    "disk_used": 219204427776,
+    "disk_free": 35709341696,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1185255424,
+    "swap_free": 10974089216,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:26:59",
+    "cpu_usage_per_core": [
+        58.5,
+        35.9,
+        51.6,
+        59.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7811563520,
+    "ram_free": 678907904,
+    "ram_usage_percent": 92.0,
+    "disk_total": 254913769472,
+    "disk_used": 219204886528,
+    "disk_free": 35708882944,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1184878592,
+    "swap_free": 10974466048,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:28:00",
+    "cpu_usage_per_core": [
+        71.4,
+        75.4,
+        79.7,
+        69.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7700393984,
+    "ram_free": 790077440,
+    "ram_usage_percent": 90.7,
+    "disk_total": 254913769472,
+    "disk_used": 219206250496,
+    "disk_free": 35707518976,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1184608256,
+    "swap_free": 10974736384,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:29:01",
+    "cpu_usage_per_core": [
+        73.1,
+        54.7,
+        59.4,
+        48.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7827628032,
+    "ram_free": 662843392,
+    "ram_usage_percent": 92.2,
+    "disk_total": 254913769472,
+    "disk_used": 219207757824,
+    "disk_free": 35706011648,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1182806016,
+    "swap_free": 10976538624,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:30:02",
+    "cpu_usage_per_core": [
+        63.8,
+        63.2,
+        62.5,
+        71.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7718379520,
+    "ram_free": 772091904,
+    "ram_usage_percent": 90.9,
+    "disk_total": 254913769472,
+    "disk_used": 219207991296,
+    "disk_free": 35705778176,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1182674944,
+    "swap_free": 10976669696,
+    "swap_usage_percent": 9.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:31:04",
+    "cpu_usage_per_core": [
+        50.8,
+        46.9,
+        62.5,
+        53.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7513149440,
+    "ram_free": 977321984,
+    "ram_usage_percent": 88.5,
+    "disk_total": 254913769472,
+    "disk_used": 219209334784,
+    "disk_free": 35704434688,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1340268544,
+    "swap_free": 10819076096,
+    "swap_usage_percent": 11.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:32:05",
+    "cpu_usage_per_core": [
+        56.1,
+        56.9,
+        67.7,
+        64.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7625842688,
+    "ram_free": 864628736,
+    "ram_usage_percent": 89.8,
+    "disk_total": 254913769472,
+    "disk_used": 219209457664,
+    "disk_free": 35704311808,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1339846656,
+    "swap_free": 10819497984,
+    "swap_usage_percent": 11.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:33:06",
+    "cpu_usage_per_core": [
+        38.5,
+        37.5,
+        31.2,
+        54.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7628726272,
+    "ram_free": 861745152,
+    "ram_usage_percent": 89.9,
+    "disk_total": 254913769472,
+    "disk_used": 219209318400,
+    "disk_free": 35704451072,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1339359232,
+    "swap_free": 10819985408,
+    "swap_usage_percent": 11.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:34:07",
+    "cpu_usage_per_core": [
+        29.9,
+        17.2,
+        21.9,
+        18.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7612510208,
+    "ram_free": 877961216,
+    "ram_usage_percent": 89.7,
+    "disk_total": 254913769472,
+    "disk_used": 219209670656,
+    "disk_free": 35704098816,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1337540608,
+    "swap_free": 10821804032,
+    "swap_usage_percent": 11.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:35:09",
+    "cpu_usage_per_core": [
+        53.7,
+        53.0,
+        53.1,
+        53.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7588884480,
+    "ram_free": 901586944,
+    "ram_usage_percent": 89.4,
+    "disk_total": 254913769472,
+    "disk_used": 219209900032,
+    "disk_free": 35703869440,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1337204736,
+    "swap_free": 10822139904,
+    "swap_usage_percent": 11.0,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:36:10",
+    "cpu_usage_per_core": [
+        30.8,
+        23.4,
+        25.0,
+        35.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7337738240,
+    "ram_free": 1152733184,
+    "ram_usage_percent": 86.4,
+    "disk_total": 254913769472,
+    "disk_used": 219214110720,
+    "disk_free": 35699658752,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1370124288,
+    "swap_free": 10789220352,
+    "swap_usage_percent": 11.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:37:11",
+    "cpu_usage_per_core": [
+        72.7,
+        57.8,
+        61.5,
+        56.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7315218432,
+    "ram_free": 1175252992,
+    "ram_usage_percent": 86.2,
+    "disk_total": 254913769472,
+    "disk_used": 219214454784,
+    "disk_free": 35699314688,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1369849856,
+    "swap_free": 10789494784,
+    "swap_usage_percent": 11.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:38:12",
+    "cpu_usage_per_core": [
+        51.6,
+        26.6,
+        46.9,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7325728768,
+    "ram_free": 1164742656,
+    "ram_usage_percent": 86.3,
+    "disk_total": 254913769472,
+    "disk_used": 219210481664,
+    "disk_free": 35703287808,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1369174016,
+    "swap_free": 10790170624,
+    "swap_usage_percent": 11.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:39:13",
+    "cpu_usage_per_core": [
+        20.6,
+        17.2,
+        12.5,
+        11.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7143075840,
+    "ram_free": 1347395584,
+    "ram_usage_percent": 84.1,
+    "disk_total": 254913769472,
+    "disk_used": 219215634432,
+    "disk_free": 35698135040,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1368854528,
+    "swap_free": 10790490112,
+    "swap_usage_percent": 11.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:40:14",
+    "cpu_usage_per_core": [
+        45.5,
+        23.4,
+        56.2,
+        57.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 7043850240,
+    "ram_free": 1446621184,
+    "ram_usage_percent": 83.0,
+    "disk_total": 254913769472,
+    "disk_used": 219215552512,
+    "disk_free": 35698216960,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1368543232,
+    "swap_free": 10790801408,
+    "swap_usage_percent": 11.3,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:41:15",
+    "cpu_usage_per_core": [
+        25.0,
+        32.8,
+        34.4,
+        48.4
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6878539776,
+    "ram_free": 1611931648,
+    "ram_usage_percent": 81.0,
+    "disk_total": 254913769472,
+    "disk_used": 219216891904,
+    "disk_free": 35696877568,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1401536512,
+    "swap_free": 10757808128,
+    "swap_usage_percent": 11.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:42:16",
+    "cpu_usage_per_core": [
+        20.3,
+        26.6,
+        42.2,
+        31.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6915305472,
+    "ram_free": 1575165952,
+    "ram_usage_percent": 81.4,
+    "disk_total": 254913769472,
+    "disk_used": 219217207296,
+    "disk_free": 35696562176,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1401344000,
+    "swap_free": 10758000640,
+    "swap_usage_percent": 11.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:43:17",
+    "cpu_usage_per_core": [
+        39.1,
+        27.0,
+        34.4,
+        56.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6975614976,
+    "ram_free": 1514856448,
+    "ram_usage_percent": 82.2,
+    "disk_total": 254913769472,
+    "disk_used": 219217760256,
+    "disk_free": 35696009216,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1400229888,
+    "swap_free": 10759114752,
+    "swap_usage_percent": 11.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:44:18",
+    "cpu_usage_per_core": [
+        43.8,
+        39.1,
+        42.2,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6793420800,
+    "ram_free": 1697050624,
+    "ram_usage_percent": 80.0,
+    "disk_total": 254913769472,
+    "disk_used": 219217805312,
+    "disk_free": 35695964160,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1395683328,
+    "swap_free": 10763661312,
+    "swap_usage_percent": 11.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:45:19",
+    "cpu_usage_per_core": [
+        41.5,
+        33.3,
+        47.7,
+        41.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6777389056,
+    "ram_free": 1713082368,
+    "ram_usage_percent": 79.8,
+    "disk_total": 254913769472,
+    "disk_used": 219218096128,
+    "disk_free": 35695673344,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1395122176,
+    "swap_free": 10764222464,
+    "swap_usage_percent": 11.5,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:46:20",
+    "cpu_usage_per_core": [
+        32.3,
+        34.4,
+        53.1,
+        43.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6643744768,
+    "ram_free": 1846726656,
+    "ram_usage_percent": 78.2,
+    "disk_total": 254913769472,
+    "disk_used": 219218178048,
+    "disk_free": 35695591424,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1428365312,
+    "swap_free": 10730979328,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:47:22",
+    "cpu_usage_per_core": [
+        29.2,
+        33.8,
+        49.2,
+        49.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6635364352,
+    "ram_free": 1855107072,
+    "ram_usage_percent": 78.2,
+    "disk_total": 254913769472,
+    "disk_used": 219215278080,
+    "disk_free": 35698491392,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1427763200,
+    "swap_free": 10731581440,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:48:23",
+    "cpu_usage_per_core": [
+        20.3,
+        15.6,
+        23.4,
+        18.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6716026880,
+    "ram_free": 1774444544,
+    "ram_usage_percent": 79.1,
+    "disk_total": 254913769472,
+    "disk_used": 219215802368,
+    "disk_free": 35697967104,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1427456000,
+    "swap_free": 10731888640,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:49:24",
+    "cpu_usage_per_core": [
+        42.2,
+        32.8,
+        37.5,
+        53.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6707253248,
+    "ram_free": 1783218176,
+    "ram_usage_percent": 79.0,
+    "disk_total": 254913769472,
+    "disk_used": 219216601088,
+    "disk_free": 35697168384,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425297408,
+    "swap_free": 10734047232,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:50:25",
+    "cpu_usage_per_core": [
+        20.3,
+        9.4,
+        17.2,
+        20.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6677409792,
+    "ram_free": 1813061632,
+    "ram_usage_percent": 78.6,
+    "disk_total": 254913769472,
+    "disk_used": 219216887808,
+    "disk_free": 35696881664,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425108992,
+    "swap_free": 10734235648,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:51:26",
+    "cpu_usage_per_core": [
+        26.6,
+        48.4,
+        59.4,
+        36.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6610407424,
+    "ram_free": 1880064000,
+    "ram_usage_percent": 77.9,
+    "disk_total": 254913769472,
+    "disk_used": 219216990208,
+    "disk_free": 35696779264,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424580608,
+    "swap_free": 10734764032,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:52:27",
+    "cpu_usage_per_core": [
+        20.3,
+        15.6,
+        12.5,
+        12.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6602444800,
+    "ram_free": 1888026624,
+    "ram_usage_percent": 77.8,
+    "disk_total": 254913769472,
+    "disk_used": 219217002496,
+    "disk_free": 35696766976,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424379904,
+    "swap_free": 10734964736,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:53:28",
+    "cpu_usage_per_core": [
+        37.5,
+        32.3,
+        37.5,
+        60.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6626795520,
+    "ram_free": 1863675904,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 219217031168,
+    "disk_free": 35696738304,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424134144,
+    "swap_free": 10735210496,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:54:29",
+    "cpu_usage_per_core": [
+        17.2,
+        34.4,
+        18.8,
+        12.5
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6594330624,
+    "ram_free": 1896140800,
+    "ram_usage_percent": 77.7,
+    "disk_total": 254913769472,
+    "disk_used": 219218956288,
+    "disk_free": 35694813184,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1423368192,
+    "swap_free": 10735976448,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:55:30",
+    "cpu_usage_per_core": [
+        54.7,
+        29.7,
+        37.5,
+        46.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6620106752,
+    "ram_free": 1870364672,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 219218137088,
+    "disk_free": 35695632384,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1420902400,
+    "swap_free": 10738442240,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:56:31",
+    "cpu_usage_per_core": [
+        18.8,
+        20.3,
+        25.0,
+        28.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6581329920,
+    "ram_free": 1909141504,
+    "ram_usage_percent": 77.5,
+    "disk_total": 254913769472,
+    "disk_used": 219217969152,
+    "disk_free": 35695800320,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1420283904,
+    "swap_free": 10739060736,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:57:32",
+    "cpu_usage_per_core": [
+        40.6,
+        26.6,
+        56.2,
+        32.8
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6545682432,
+    "ram_free": 1944788992,
+    "ram_usage_percent": 77.1,
+    "disk_total": 254913769472,
+    "disk_used": 219218108416,
+    "disk_free": 35695661056,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425240064,
+    "swap_free": 10734104576,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:58:33",
+    "cpu_usage_per_core": [
+        28.1,
+        34.8,
+        31.2,
+        29.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6543409152,
+    "ram_free": 1947062272,
+    "ram_usage_percent": 77.1,
+    "disk_total": 254913769472,
+    "disk_used": 219218292736,
+    "disk_free": 35695476736,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425211392,
+    "swap_free": 10734133248,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 13:59:34",
+    "cpu_usage_per_core": [
+        32.8,
+        26.6,
+        34.4,
+        51.6
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6572748800,
+    "ram_free": 1917722624,
+    "ram_usage_percent": 77.4,
+    "disk_total": 254913769472,
+    "disk_used": 219218419712,
+    "disk_free": 35695349760,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425117184,
+    "swap_free": 10734227456,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:00:35",
+    "cpu_usage_per_core": [
+        31.2,
+        27.7,
+        48.4,
+        23.1
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6561914880,
+    "ram_free": 1928556544,
+    "ram_usage_percent": 77.3,
+    "disk_total": 254913769472,
+    "disk_used": 219217846272,
+    "disk_free": 35695923200,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1425010688,
+    "swap_free": 10734333952,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:01:36",
+    "cpu_usage_per_core": [
+        42.4,
+        35.9,
+        50.8,
+        46.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6570795008,
+    "ram_free": 1919676416,
+    "ram_usage_percent": 77.4,
+    "disk_total": 254913769472,
+    "disk_used": 219217952768,
+    "disk_free": 35695816704,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424883712,
+    "swap_free": 10734460928,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:02:37",
+    "cpu_usage_per_core": [
+        40.0,
+        32.8,
+        45.3,
+        42.2
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6577385472,
+    "ram_free": 1913085952,
+    "ram_usage_percent": 77.5,
+    "disk_total": 254913769472,
+    "disk_used": 219218108416,
+    "disk_free": 35695661056,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424814080,
+    "swap_free": 10734530560,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:03:39",
+    "cpu_usage_per_core": [
+        12.5,
+        14.3,
+        32.8,
+        36.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6623559680,
+    "ram_free": 1866911744,
+    "ram_usage_percent": 78.0,
+    "disk_total": 254913769472,
+    "disk_used": 219218382848,
+    "disk_free": 35695386624,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424801792,
+    "swap_free": 10734542848,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:04:40",
+    "cpu_usage_per_core": [
+        37.5,
+        34.4,
+        43.8,
+        50.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6590337024,
+    "ram_free": 1900134400,
+    "ram_usage_percent": 77.6,
+    "disk_total": 254913769472,
+    "disk_used": 219218272256,
+    "disk_free": 35695497216,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1424781312,
+    "swap_free": 10734563328,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:05:41",
+    "cpu_usage_per_core": [
+        18.8,
+        25.0,
+        21.9,
+        31.7
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6589120512,
+    "ram_free": 1901350912,
+    "ram_usage_percent": 77.6,
+    "disk_total": 254913769472,
+    "disk_used": 219218526208,
+    "disk_free": 35695243264,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1423884288,
+    "swap_free": 10735460352,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:06:42",
+    "cpu_usage_per_core": [
+        35.9,
+        45.3,
+        65.6,
+        45.3
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6526763008,
+    "ram_free": 1963708416,
+    "ram_usage_percent": 76.9,
+    "disk_total": 254913769472,
+    "disk_used": 219218968576,
+    "disk_free": 35694800896,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1423876096,
+    "swap_free": 10735468544,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:07:43",
+    "cpu_usage_per_core": [
+        26.6,
+        21.9,
+        25.0,
+        25.0
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6543425536,
+    "ram_free": 1947045888,
+    "ram_usage_percent": 77.1,
+    "disk_total": 254913769472,
+    "disk_used": 219219030016,
+    "disk_free": 35694739456,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1423822848,
+    "swap_free": 10735521792,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
+{
+    "timestamp": "2024-06-13 14:08:44",
+    "cpu_usage_per_core": [
+        40.9,
+        42.2,
+        37.5,
+        60.9
+    ],
+    "ram_total": 8490471424,
+    "ram_used": 6597230592,
+    "ram_free": 1893240832,
+    "ram_usage_percent": 77.7,
+    "disk_total": 254913769472,
+    "disk_used": 219219488768,
+    "disk_free": 35694280704,
+    "disk_usage_percent": 86.0,
+    "swap_total": 12159344640,
+    "swap_used": 1423798272,
+    "swap_free": 10735546368,
+    "swap_usage_percent": 11.7,
+    "uptime": 1718219184.8777816
+}
